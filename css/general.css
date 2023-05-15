@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Comme', sans-serif;
+font-family: 'Jost', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+  }
+  body{
+    margin-top: 60px;
+    padding-bottom: 800px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: light rgb(247, 238, 238);
+  }
